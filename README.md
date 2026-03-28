@@ -8,8 +8,6 @@ It provides insights into sales trends, profitability, and customer behavior.
 - **Key Metrics:** Total Sales and Total Profit overview.
 - **Geographical Analysis:**
 
-https://github.com/user-attachments/assets/bf5a0628-bcad-44ed-ac20-7c6f60e820cd
-
  Sales distribution by State.
 - **Customer Insights:** Top 5 customers and yearly customer count.
 - **Trend Analysis:** Monthly and yearly sales/profit patterns.
@@ -24,3 +22,4 @@ https://github.com/user-attachments/assets/bf5a0628-bcad-44ed-ac20-7c6f60e820cd
 ![Dashboard Screenshot](./Screenshot%202026-03-28%20113042.png)
 
 ### Project Demo Video
+https://github.com/user-attachments/assets/bf5a0628-bcad-44ed-ac20-7c6f60e820cd 
