@@ -17,4 +17,4 @@ It provides insights into sales trends, profitability, and customer behavior.
 - Dashboard Layout & Design
 
 ## Screenshot
-![Dashboard Screenshot](Screenshot 2026-03-28 113042.png) 
+![Dashboard Screenshot](./Screenshot%202026-03-28%20113042.png)
