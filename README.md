@@ -18,3 +18,6 @@ It provides insights into sales trends, profitability, and customer behavior.
 
 ## Screenshot
 ![Dashboard Screenshot](./Screenshot%202026-03-28%20113042.png)
+
+### Project Demo Video
+https://github.com/methmii/Excel-Sales-Profit-Dashboard/blob/main/Recording%202026-03-28%20114232.mp4?raw=true
